@@ -1,4 +1,4 @@
-Predict future sales
+# Predict future sales
 This is the final project for coursera online course: "How to Win a Data Science Competition: Learn from Top Kagglers". It is also a public challenge on the Kaggle platform. 
 Reference: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview 
 Problem definition -
