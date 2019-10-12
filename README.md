@@ -27,6 +27,12 @@ There are about 6 million such records in the training set, collected over 30 sh
     • shop_name – Shop name.
     • item_category_name - Name of a item category.
 
+## Tools used -
+    • python 3
+    • pandas
+    • numpy
+    • sklearn (python's ml package)
+    
 ## Feature Engineering
     1. Extraction of City information from shop name.
     2. Extraction of item type and sub type from item category name.
