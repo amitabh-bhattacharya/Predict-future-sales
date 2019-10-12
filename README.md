@@ -1,5 +1,5 @@
 # Predict future sales
-This is the final project for coursera online course: "How to Win a Data Science Competition: Learn from Top Kagglers". It is also a public challenge on the Kaggle platform. 
+## This is the final project for coursera online course: "How to Win a Data Science Competition: Learn from Top Kagglers". It is also a public challenge on the Kaggle platform. 
 Reference: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview 
 Problem definition -
 In this project, we would work with a time series data set consisting of daily sales data. The data is provided by the Russian software company “1C”. The training data consists date wise sales records categorized by shop id and item id. The task is to forecast the sales for next month (Nov-2015) for a shop id and item id combination.
